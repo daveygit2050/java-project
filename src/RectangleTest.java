@@ -1,5 +1,5 @@
-import org.junit.Tets;
-import static org.junit.Assert.asserEquals;
+import org.junit.Tests;
+import static org.junit.Assert.assertEquals;
 
 public class RectangleTest {
   Rectangle myRectangle = new Rectangle(5,6);
